@@ -26,4 +26,4 @@ H1-H6 usage, and semantic HTML. The CSS code also contains consolidated selector
 
 ## Credits
 
-Credit for the assets in this project go to UNC Coding Bootcamp.
+Credit for the assets and design of this project go to UNC Coding Bootcamp.
