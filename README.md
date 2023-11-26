@@ -1,4 +1,4 @@
-# <Horiseon Services website>
+# Horiseon Services website
 
 https://chairsitter.github.io/HoriseonServicesSite/
 
