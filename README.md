@@ -7,7 +7,7 @@ https://chairsitter.github.io/HoriseonServicesSite/
 ## Description
 
 This project is the front page for a search engine optimization, online reputation management, and social media marketing site called Horiseon.
-The page contains information about 
+The page contains information about the services provided by this web development company.
 
 - I practiced SEO optimization skills, efficient CSS organization, and accessibility concepts with HTML and CSS during this project.
 - This site gives the user information about the major roles of Horiseon Services and can link to further pages as the project is developed.
